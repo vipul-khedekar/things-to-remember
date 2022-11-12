@@ -1,0 +1,17 @@
+/* Keep them in order. */
+/* Do general styling first. Then add the specifics below,
+according to device or screen sizes. */
+
+/* ------------------------------------------------------------- */
+
+/* mobile screen - iPhone 13 Pro Max - ref */
+@media screen and (max-width: 430px) {
+}
+
+/* tablet screen - iPad - ref */
+@media screen and (min-width: 808px) {
+}
+
+/* desktop screen - 16:9 Monitor */
+@media screen and (min-width: 1024px) {
+}
